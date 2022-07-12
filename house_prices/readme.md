@@ -17,3 +17,9 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
 - train.csv: 训练数据，包括房屋ID，79个房屋属性，房屋售价
 - test.csv: 测试数据，包括房屋ID， 79个房屋属性
 最后参考sample_submission.csv得到你的预测结果文件，包括房屋id，房屋售价
+
+# 参考
+1. [分析数据](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python)
+2. [特征工程：分析数据特征是否缺失](https://www.kaggle.com/code/dgawlik/house-prices-eda)
+3. [sklearn与线性回归](https://www.kaggle.com/code/juliencs/a-study-on-regression-applied-to-the-ames-dataset)
+4. [正则化的线性回归模型](https://www.kaggle.com/code/apapiu/regularized-linear-models)
