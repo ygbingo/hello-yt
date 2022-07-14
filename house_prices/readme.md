@@ -23,3 +23,4 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
 2. [特征工程：分析数据特征是否缺失](https://www.kaggle.com/code/dgawlik/house-prices-eda)
 3. [sklearn与线性回归](https://www.kaggle.com/code/juliencs/a-study-on-regression-applied-to-the-ames-dataset)
 4. [正则化的线性回归模型](https://www.kaggle.com/code/apapiu/regularized-linear-models)
+5. [完整解决方案例1-北京理工](https://bitdm.github.io/2020/projects/P08/final.html)
